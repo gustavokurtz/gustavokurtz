@@ -1,4 +1,4 @@
-h1><span>👋</span> hello, i’m</h1>
+<h1 align="center"><span align="center">👋</span> hello, i’m</h1>
       <h1>GUSTAVO NASCIMENTO</h1>
       
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using NodeJs to frontend development using ReactJS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack Junior developer</strong> focused on web development.</p>&nbsp;
