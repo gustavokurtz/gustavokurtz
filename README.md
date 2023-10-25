@@ -50,6 +50,7 @@
   <! --NodeJs --> <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <br>
 </div>
+<br>
 ## ⭐️ Database & ORM
 <div align="right">
   <!-- MYSQL -->  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
