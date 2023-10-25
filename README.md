@@ -27,8 +27,7 @@
 <div align="center">
   <table>
     <tr>
-      <td><b>🎓 Web Developer</b></td>
-      <td><b>🎓 Back-end Developer</b></td>
+      <td><b>🎓 Web Developer / 🎓 Back-end Developer </b></td>
     </tr>
     <tr>
       <td><img src="https://apilgriminnarnia.files.wordpress.com/2018/09/legally-blonde-laptop-e1536078931635.jpg" width="300px" height="170px"></td>
