@@ -1,5 +1,8 @@
-<a href="https://github.com/gustavokurtz">
+<div align="center">
+  <a href="https://github.com/gustavokurtz">
     <img align="center" src="Welcome.png" width="500">
+  </a>
+</div>
   </a>
       <h1 align="center">GUSTAVO NASCIMENTO</h1>
       
