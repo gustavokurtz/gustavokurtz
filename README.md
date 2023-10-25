@@ -21,7 +21,7 @@
 </div><br>
 
 <div align='center'>
-  <b>Desenvolvimento Web</b> Atualmente atuo como Freelancer <b>Desenvolvedor Web</b>
+  <b>Desenvolvimento Web - </b> Atualmente atuo como Freelancer <b>Desenvolvedor Web</b>
 </div><br>
 
 <div align="center">
