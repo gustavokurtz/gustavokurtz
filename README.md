@@ -109,7 +109,7 @@ Sou movido por desafios e acredito que o aprendizado contínuo é a chave para s
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavokurtz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavokurtz&layout=donut)](https://github.com/gustavokurtz/github-readme-stats)" 
   />
 
 </p>
