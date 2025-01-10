@@ -1,8 +1,14 @@
 # 👩🏻‍💻 Gustavo Nascimento
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
-Me chamo Gustavo Nascimento, tenho 18 anos e sou natural de Minas Gerais! Desenvolvo desde os 16 anos, tenho uma grande paixão pela aréa de Tecnologia!
+Me chamo Gustavo Nascimento, sou apaixonado por tecnologia e programo desde os 16. Desde que comecei minha jornada no mundo do desenvolvimento, tenho me dedicado a aprender e construir projetos práticos que resolvam problemas reais, como encurtadores de links, bots para WhatsApp e sistemas de automação.
+
+Estou sempre buscando melhorar minhas habilidades em JavaScript, Node.js, React e Next.js, além de explorar tecnologias modernas como Prisma, Tailwind CSS, e bancos de dados como PostgreSQL e MySQL.
+
+Sou movido por desafios e acredito que o aprendizado contínuo é a chave para se destacar no mundo da programação. Meu objetivo é me especializar cada vez mais, criar projetos inovadores e colaborar em equipes de tecnologia de alto impacto.
+
+
 
 ---
 
@@ -32,6 +38,8 @@ Me chamo Gustavo Nascimento, tenho 18 anos e sou natural de Minas Gerais! Desenv
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img 
     align="left" 
     alt="TypeScript"
@@ -80,6 +88,27 @@ Me chamo Gustavo Nascimento, tenho 18 anos e sou natural de Minas Gerais! Desenv
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=gustavokurtz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavokurtz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
 
 <br/>
 <br/>
