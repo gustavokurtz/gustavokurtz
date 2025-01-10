@@ -80,6 +80,8 @@ Sou movido por desafios e acredito que o aprendizado contínuo é a chave para s
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img align="left" alt="Prisma" title="Prisma" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" />
+<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img 
     align="left" 
     alt="Python" 
@@ -88,6 +90,9 @@ Sou movido por desafios e acredito que o aprendizado contínuo é a chave para s
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+<br/>
+<br/>
 
 ### 📊 Estatísticas
 
@@ -110,7 +115,6 @@ Sou movido por desafios e acredito que o aprendizado contínuo é a chave para s
 </p>
 
 
-<br/>
-<br/>
+
 
 
