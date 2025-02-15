@@ -4,7 +4,7 @@
 
 Me chamo Gustavo Nascimento, sou apaixonado por tecnologia e programo desde os 16. Desde que comecei minha jornada no mundo do desenvolvimento, tenho me dedicado a aprender e construir projetos práticos que resolvam problemas reais, como encurtadores de links, bots para WhatsApp e sistemas de automação.
 
-Estou sempre buscando melhorar minhas habilidades em JavaScript, Node.js, React e Next.js, além de explorar tecnologias modernas como Prisma, Tailwind CSS, e bancos de dados como PostgreSQL e MySQL.
+Estou sempre buscando melhorar minhas habilidades em Java, Spring Boot, JavaScript, Node.js, Angular, React e Next.js, além de explorar tecnologias modernas como Prisma, Tailwind CSS, e bancos de dados como PostgreSQL e MySQL.
 
 Sou movido por desafios e acredito que o aprendizado contínuo é a chave para se destacar no mundo da programação. Meu objetivo é me especializar cada vez mais, criar projetos inovadores e colaborar em equipes de tecnologia de alto impacto.
 
@@ -37,6 +37,13 @@ Sou movido por desafios e acredito que o aprendizado contínuo é a chave para s
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Java" 
+    height="40" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
 />
 
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
