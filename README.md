@@ -1,127 +1,23 @@
-# 👩🏻‍💻 Gustavo Nascimento
+<img src="./assets/terminal.svg" alt="$ whoami: Gustavo Nascimento, AI Engineer at NTConsult" width="100%">
 
-**`Desenvolvedor FullStack`**
+### Now
 
-Me chamo Gustavo Nascimento, sou apaixonado por tecnologia e programo desde os 16. Desde que comecei minha jornada no mundo do desenvolvimento, tenho me dedicado a aprender e construir projetos práticos que resolvam problemas reais, como encurtadores de links, bots para WhatsApp e sistemas de automação.
+AI Engineer at [NTConsult](https://www.ntconsult.com.br/). I'm building an agent-based assistant that walks field teams through operational procedures: LangChain and MCP for tools, RAG over company knowledge, and LLM-as-a-judge checking every answer before it reaches the user. Evals and tracing on every turn, so model behavior is something we can test.
 
-Estou sempre buscando melhorar minhas habilidades em Java, Spring Boot, JavaScript, Node.js, Angular, React e Next.js, além de explorar tecnologias modernas como Prisma, Tailwind CSS, e bancos de dados como PostgreSQL e MySQL.
+### Selected work
 
-Sou movido por desafios e acredito que o aprendizado contínuo é a chave para se destacar no mundo da programação. Meu objetivo é me especializar cada vez mais, criar projetos inovadores e colaborar em equipes de tecnologia de alto impacto.
+| Project | What it does | Built with |
+| --- | --- | --- |
+| [**Dubla**](https://github.com/gustavokurtz/dubla) | Dubs English videos into Portuguese with a 5-step pipeline, all in memory | Whisper · GPT-4o-mini · ElevenLabs · NestJS · React |
+| [**Visagismo**](https://github.com/gustavokurtz/kairobarberbackend/tree/main/src/modules/ai-visagism) | Shows a haircut on your own face before the scissors. A multimodal model describes the face, an image model renders only the new hair | Llama 4 Scout · image generation |
+| [**my-skills**](https://github.com/gustavokurtz/my-skills) | Claude Code skills I use every day, including a Ctrl+G prompt refiner | Claude Code · Shell |
+| [**buscacnpj**](https://github.com/gustavokurtz/buscacnpj) | Brazilian company lookup by CNPJ, with rate limiting and a web front end | NestJS · TypeScript |
+| [**omarchy #1689**](https://github.com/basecamp/omarchy/pull/1689) | Merged fix for an ANSI escape bug in Basecamp's Omarchy, reviewed by DHH | Open source · Shell |
 
+### Stack
 
+`TypeScript` `Node.js` `LangChain` `AI SDK` `MCP` `RAG` `NestJS` `Fastify` `React` `Next.js` `PostgreSQL` `MongoDB` `Redis` `Python` `Docker`
 
----
+### Elsewhere
 
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Java" 
-    height="40" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-/>
-
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img align="left" alt="Prisma" title="Prisma" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" />
-<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=gustavokurtz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavokurtz&layout=donut&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-</p>
-
-
-
-
-
+[gustavodev.tech](https://www.gustavodev.tech/) · [LinkedIn](https://www.linkedin.com/in/gustavonascimentoo) · [YouTube](https://www.youtube.com/@gustavookurtz) · gustavoocontact@gmail.com

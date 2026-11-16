@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="860" height="312" viewBox="0 0 860 312" role="img" aria-label="$ whoami: Gustavo Nascimento, AI Engineer at NTConsult. Building production LLM agents with LangChain, MCP, RAG, AI SDK and TypeScript.">
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 15px; fill: #c9d1d9; white-space: pre; }
+    .p { fill: #3fb950; font-weight: 600; }
+    .name { fill: #d2a8ff; font-weight: 600; }
+    .dim { fill: #6e7681; }
+    .k { fill: #e3b341; }
+    .s { fill: #a5d6ff; }
+    .title { font-size: 12px; fill: #6e7681; }
+    .cover { fill: #0d1117; }
+    .fade { opacity: 0; animation: show .01s linear forwards; }
+    .t1 { animation: type1 .6s steps(6) .4s forwards; }
+    .t2 { animation: type2 1s steps(13) 1.7s forwards; }
+    .cursor { fill: #c9d1d9; animation: show .01s linear 3.6s forwards, blink 1s steps(1) 3.6s infinite; opacity: 0; }
+    @keyframes show { to { opacity: 1; } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @keyframes type1 { to { transform: translateX(56px); } }
+    @keyframes type2 { to { transform: translateX(120px); } }
+    @media (prefers-reduced-motion: reduce) {
+      .fade, .cursor { opacity: 1; animation: none; }
+      .cover { display: none; }
+    }
+  </style>
+
+  <rect x="0.5" y="0.5" width="859" height="311" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <path d="M1 38 H859" stroke="#21262d"/>
+  <circle cx="22" cy="19" r="6" fill="#ff5f57"/>
+  <circle cx="42" cy="19" r="6" fill="#febc2e"/>
+  <circle cx="62" cy="19" r="6" fill="#28c840"/>
+  <text class="title" x="430" y="23" text-anchor="middle">~/gustavokurtz — zsh</text>
+
+  <!-- $ whoami -->
+  <text class="p" x="28" y="76">$</text>
+  <text x="46" y="76">whoami</text>
+  <rect class="cover t1" x="45" y="58" width="140" height="26"/>
+  <text class="fade" style="animation-delay:1.15s" x="28" y="102"><tspan class="name">Gustavo Nascimento</tspan><tspan class="dim"> — AI Engineer @ NTConsult</tspan></text>
+
+  <!-- $ cat focus.yml -->
+  <text class="p fade" style="animation-delay:1.5s" x="28" y="142">$</text>
+  <text x="46" y="142">cat focus.yml</text>
+  <rect class="cover t2" x="45" y="124" width="220" height="26"/>
+  <text class="fade" style="animation-delay:2.9s" x="28" y="168"><tspan class="k">building</tspan>: production LLM agents</text>
+  <text class="fade" style="animation-delay:3.0s" x="28" y="194"><tspan class="k">stack</tspan>:    [<tspan class="s">LangChain</tspan>, <tspan class="s">MCP</tspan>, <tspan class="s">RAG</tspan>, <tspan class="s">AI SDK</tspan>, <tspan class="s">TypeScript</tspan>]</text>
+  <text class="fade" style="animation-delay:3.1s" x="28" y="220"><tspan class="k">cares</tspan>:    [guardrails, evals, tracing]</text>
+  <text class="fade" style="animation-delay:3.2s" x="28" y="246"><tspan class="k">now</tspan>:      agent assistant for field teams</text>
+
+  <!-- prompt -->
+  <text class="p fade" style="animation-delay:3.5s" x="28" y="286">$</text>
+  <rect class="cursor" x="46" y="272" width="9" height="18"/>
+</svg>
