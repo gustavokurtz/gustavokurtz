@@ -8,7 +8,7 @@ AI Engineer at [NTConsult](https://www.ntconsult.com.br/). I'm building an agent
 
 | Project | What it does | Built with |
 | --- | --- | --- |
-| [**Dubla**](https://github.com/gustavokurtz/dubla) | Dubs English videos into Portuguese with a 5-step pipeline, all in memory | Whisper · GPT-4o-mini · ElevenLabs · NestJS · React |
+| [**Dubla**](https://github.com/gustavokurtz/dubla) | Dubs English videos into Portuguese with a 5-step pipeline, all in memory | Whisper · GPT-4o-mini · OpenAI TTS · NestJS · React |
 | [**Visagismo**](https://github.com/gustavokurtz/kairobarberbackend/tree/main/src/modules/ai-visagism) | Shows a haircut on your own face before the scissors. A multimodal model describes the face, an image model renders only the new hair | Llama 4 Scout · image generation |
 | [**my-skills**](https://github.com/gustavokurtz/my-skills) | Claude Code skills I use every day, including a Ctrl+G prompt refiner | Claude Code · Shell |
 | [**buscacnpj**](https://github.com/gustavokurtz/buscacnpj) | Brazilian company lookup by CNPJ, with rate limiting and a web front end | NestJS · TypeScript |
