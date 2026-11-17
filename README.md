@@ -1,4 +1,4 @@
-<img src="./assets/terminal.svg" alt="$ whoami: Gustavo Nascimento, AI Engineer at NTConsult" width="100%">
+<img src="./assets/terminal.svg" alt="$ whoami: Gustavo Nascimento, AI Engineer at NTConsult" width="480">
 
 ### Now
 
